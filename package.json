@@ -4,25 +4,25 @@
     "inquirer": "^9.2.16",
     "typescript": "^5.4.3"
   },
-  "name": "simple-terminal-calculator",
+  "name": "number-guessing-game-terminal",
   "version": "1.0.0",
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
   "type": "module",
   "bin": {
-    "simple-terminal-calculator": "lib/src/index.js"
+    "number-guessing-game-terminal": "lib/src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "calculator",
+    "Number Guessing game",
     "package",
-    "simple-calculator"
+    "stage-wise number game"
   ],
   "author": "Arfin",
   "license": "ISC",
-  "description": "A simple calculator App",
+  "description": "A simple number guess game App",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
   }
